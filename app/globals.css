@@ -1,0 +1,33 @@
+html {
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+  background: #f7f7f7;
+  color: #111;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 24px;
+  background: #ffffff;
+}
+
+h1,
+h2,
+h3 {
+  color: #0b1f41;
+}
+
+a {
+  color: #0b5fff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
